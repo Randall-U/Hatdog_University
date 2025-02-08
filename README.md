@@ -1,5 +1,3 @@
-# Hatdog_University
-
 # Course Management System
 
 ## Overview
